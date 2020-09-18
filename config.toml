@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://kylinnetzephyrus.netlify.app"
+baseURL = "https://kylinnetzephyrus.netlify.app/"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
