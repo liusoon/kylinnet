@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://kylinnetzephyrus.ltd/"
+baseURL = "https://www.kylinnetzephyrus.ltd"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
